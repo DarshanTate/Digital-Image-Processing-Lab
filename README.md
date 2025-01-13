@@ -4,7 +4,7 @@ Author
 Darshan Tate
 
 Guided by
-Dr. Tapan Jain
+[Dr. Tapan Jain](https://in.linkedin.com/in/dr-tapan-jain-18731717)
 
 Tech Stack Used
 MATLAB
