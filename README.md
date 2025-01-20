@@ -1,12 +1,15 @@
-Digital Image Processing Labs
+# Digital Image Processing Labs
 
-Author
+## Author
 Darshan Tate
 
-Guided by
+## Guided by
 [Dr. Tapan Jain](https://in.linkedin.com/in/dr-tapan-jain-18731717)
 
-Tech Stack Used
+## Tech Stack Used
 MATLAB
-Practicals So Far
-RGB_Component_Extraction_And_Analysis: Read an image, split it into RGB channels and convert it to grayscale
+
+## Practicals So Far
+
+1. RGB_Component_Extraction_And_Analysis: Read an image, split it into RGB channels and convert it to grayscale
+2. Histogram Equalization: Perform histogram equalization on a grayscale image 
