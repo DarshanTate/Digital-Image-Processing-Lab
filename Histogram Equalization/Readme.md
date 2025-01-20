@@ -26,7 +26,8 @@ This MATLAB script performs histogram equalization on a given image.
 
 ## Output
 
-![](https://github.com/user-attachments/assets/3d15f8cb-4f8c-4552-8112-7f799a362b1c)
+![](https://github.com/user-attachments/assets/96e8a74e-8724-4a6d-beaf-93181f9d7dfd)
+
 
 ## Author
 
