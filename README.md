@@ -11,5 +11,7 @@ MATLAB
 
 ## Practicals So Far
 
-1. RGB_Component_Extraction_And_Analysis: Read an image, split it into RGB channels and convert it to grayscale
-2. Histogram Equalization: Perform histogram equalization on a grayscale image 
+1. RGB_Component_Extraction_And_Analysis: Read an image, split it into RGB channels and convert it to grayscale.
+2. Histogram Equalization: Perform histogram equalization on a grayscale image.
+3. Bit plane Slicing : Performs bit plane slicing on an input image, extracting and visualizing individual bit planes from grayscale images.
+
