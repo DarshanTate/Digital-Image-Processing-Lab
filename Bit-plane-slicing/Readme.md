@@ -20,6 +20,7 @@ This MATLAB script performs bit plane slicing on an input image, extracting and 
 - Intermediate bit planes show progressive image complexity
 
 ## Output
+![image](https://github.com/user-attachments/assets/5a9a6d96-df8c-442b-9a02-5c7bd6fa2de1)
 
 
 ## Author
