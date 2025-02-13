@@ -39,9 +39,9 @@ The script outputs a table displaying the symbols, their probabilities, and the 
 Symbol  Probability  Code
 A       0.50        0
 B       0.20        10
-C       0.20        11
-D       0.05        110
-E       0.05        111
+C       0.20        110
+D       0.05        1110
+E       0.05        1111
 ```
 
 ## Dependencies
